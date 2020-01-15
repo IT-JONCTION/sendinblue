@@ -1,0 +1,13 @@
+skin/adminhtml/default/default/sendinblue  skin/adminhtml/default/default/sendinblue
+app/design/frontend/base/default/layout/sendinblue.xml  app/design/frontend/base/default/layout/sendinblue.xml
+app/design/frontend/base/default/template/sendinblue  app/design/frontend/base/default/template/sendinblue
+app/design/adminhtml/default/default/layout/sendinblue.xml  app/design/adminhtml/default/default/layout/sendinblue.xml
+app/design/adminhtml/default/default/template/sendinblue  app/design/adminhtml/default/default/template/sendinblue
+app/locale/en_US/template/email/sendinsmtp_conf.html  app/locale/en_US/template/email/sendinsmtp_conf.html
+app/locale/en_US/template/email/sendin_notification.html  app/locale/en_US/template/email/sendin_notification.html
+app/locale/en_US/template/email/doubleoptin_temp.html  app/locale/en_US/template/email/doubleoptin_temp.html
+app/locale/fr_FR/template/email/sendinsmtp_conf.html  app/locale/fr_FR/template/email/sendinsmtp_conf.html
+app/locale/fr_FR/template/email/sendin_notification.html  app/locale/fr_FR/template/email/sendin_notification.html
+app/locale/fr_FR/template/email/doubleoptin_temp.html  app/locale/fr_FR/template/email/doubleoptin_temp.html
+app/etc/modules/Sendinblue_Sendinblue.xml  app/etc/modules/Sendinblue_Sendinblue.xml
+app/code/community/Sendinblue  app/code/community/Sendinblue
